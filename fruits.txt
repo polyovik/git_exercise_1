@@ -1,3 +1,5 @@
 apple
-banana
+modified banana
 pear
+strawberry
+orange
